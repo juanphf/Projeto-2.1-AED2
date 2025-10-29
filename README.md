@@ -66,7 +66,7 @@ Os gráficos abaixo foram gerados usando a **Opção 1** (Células 12 e 13) e mo
 
 ### 1. Tempo de Execução vs. Tamanho do Grafo (Log-Log)
 
-![Gráfico de Tempo de Execução](resultados/tamanhoxtempo.png)
+![Gráfico de Tempo de Execução](co2_vs_tamanho.png)
 
 **Análise:** O gráfico confirma a complexidade teórica. O Dijkstra Clássico (O(V²)) cresce quadraticamente e se torna inviável rapidamente. O Min-Heap (O((V+E)logV)) e o NetworkX escalam de forma muito mais eficiente (quase linear), sendo que o NetworkX é consistentemente mais rápido por ser otimizado em C.
 
