@@ -16,7 +16,7 @@ Este projeto, desenvolvido como parte da disciplina de **Algoritmos e Estrutura 
 
 O objetivo principal é avaliar o **tempo de execução (em segundos)** e a **pegada de carbono (em mg de CO₂)** de cada abordagem, medindo como elas escalam com o aumento do número de nós no grafo (de 100 a 100.000 nós).
 
-### 📹 [Link para a Apresentação em Vídeo](https://www.youtube.com/watch?v=COLOQUE-O-LINK-AQUI)
+### 📹 [Link para a Apresentação em Vídeo](https://drive.google.com/file/d/1dAuyFjepD8GjTrqBLO2LlNoeURplF3kw/view?usp=drive_link)
 
 ---
 
