@@ -72,7 +72,7 @@ Os gráficos abaixo foram gerados usando a **Opção 1** (Células 12 e 13) e mo
 
 ### 2. Emissão de CO₂ vs. Tamanho do Grafo (Log-Log)
 
-![Gráfico de Emissão de CO2](resultados/co2xtamanho.png)
+![Gráfico de Emissão de CO2](resultados/co2xtamanh.png)
 
 **Análise:** A emissão de CO₂ está diretamente correlacionada com o tempo de execução e o uso de CPU. O algoritmo Clássico (O(V²)) não só é mais lento, mas também gasta significativamente mais energia, resultando em uma pegada de carbono muito maior.
 
